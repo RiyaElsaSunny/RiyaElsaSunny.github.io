@@ -1,0 +1,29 @@
+h1 {
+    text-align: center; 
+   
+}
+
+.meh {
+    display: flex;
+    flex-direction: row; 
+}
+
+#qwe{
+    color: midnightblue;
+    border: black solid 2px; 
+    margin-left: 20px;
+    padding: 20px;
+} 
+#neh{
+    text-align: left;
+} 
+#bla{
+    text-align: left;
+} 
+#nai{
+    color: midnightblue ;
+} 
+
+body{
+    background-image: url("https://i.pinimg.com/564x/6b/f1/da/6bf1da5d0d99397bce79743ae8e289cb.jpg");;
+}

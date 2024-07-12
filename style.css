@@ -1,0 +1,47 @@
+
+@font-face {
+    font-family: 'Amatic SC';
+    src: url('AmaticSC-Bold.ttf');
+  }
+ 
+
+body {
+    font-family: 'Amatic SC';
+    background-image: url("https://i.pinimg.com/564x/6b/f1/da/6bf1da5d0d99397bce79743ae8e289cb.jpg");
+    /* Replace with the path to your image */
+    background-size: cover;
+    /* Ensures the image covers the entire background */
+    background-repeat: no-repeat;
+    /* Prevents the image from repeating */
+    background-attachment: fixed;
+    /* Keeps the background image fixed during scrolling */
+    background-position: center;
+    /* Centers the background image */
+
+}
+
+h1 {
+    text-align: center; 
+   
+}
+
+.meh {
+    display: flex;
+    flex-direction: row; 
+}
+
+#qwe{
+    color: teal;
+    border: black solid 2px; 
+    margin-left: 20px;
+    padding: 20px;
+} 
+#neh{
+    text-align: left;
+} 
+#bla{
+    text-align: left;
+} 
+#nai{
+    color: teal ;
+}
